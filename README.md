@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：效果验证
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 041 篇 - 百家乐Ai预测分析工具：时间切分比随机打乱更符合现场评估](https://github.com/TGmszrcsz/baccarat-ai-041) ｜ [下一篇：第 043 篇 - 百家乐Ai预测分析工具：独立保留集为何不应反复拿来调规则](https://github.com/TGmszrcsz/baccarat-ai-043)
+
+<!-- article-chain:end -->
+
 单个测试窗口表现突出，其他时段情况没有被展示。本篇围绕“滚动验证如何观察表现是否稳定”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
